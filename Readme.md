@@ -27,9 +27,13 @@ This project is about building a Cryptostar DAPP on Ethereum
 ### Token and Version Details
 
 ERC-721 Token Name: Star Token
+
 ERC-721 Token Symbol: STN
+
 Version of Truffle used: 5.1.24
+
 Version of OpenZeppelin used: 3.0.1
+
 Token Address: d5c6c315314f4381afa96290337a482b
 
 truffle-hdwallet-provider@1.0.17
